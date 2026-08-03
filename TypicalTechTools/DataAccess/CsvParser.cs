@@ -58,7 +58,7 @@ namespace TypicalTechTools.DataAccess
         {
             string wwwRootPath = _hostingEnvironment.WebRootPath;
 
-            string[] reviewLines = File.ReadAllLines(wwwRootPath + "\\data\\Reviews.csv");
+            string[] reviewLines = File.ReadAllLines(wwwRootPath + "/data/Reviews.csv");
 
             List<Review> reviewList = new List<Review>();
 
