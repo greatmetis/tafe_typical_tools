@@ -22,7 +22,7 @@ namespace TypicalTechTools.DataAccess
         {
             string wwwRootPath = _hostingEnvironment.WebRootPath;
 
-            string[] productLines = File.ReadAllLines(wwwRootPath + "\\data\\Products.csv");
+            string[] productLines = File.ReadAllLines(wwwRootPath + "/data/Products.csv");
 
             List<Product> productList = new List<Product>();
 
