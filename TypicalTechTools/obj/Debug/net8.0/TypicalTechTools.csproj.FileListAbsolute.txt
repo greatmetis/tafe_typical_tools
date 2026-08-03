@@ -1,0 +1,690 @@
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/appsettings.Development.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/appsettings.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.runtime.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.endpoints.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.exe
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.deps.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.runtimeconfig.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.pdb
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Humanizer.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Common.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Configuration.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Frameworks.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.LibraryModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Packaging.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.ProjectModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Protocol.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/NuGet.Versioning.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.CodeDom.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/af/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ar/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/az/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/bg/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/da/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/el/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fa/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/he/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/hr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/hu/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/hy/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/id/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/is/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ku/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/lv/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/mt/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/nb/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/nl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ro/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/sk/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/sl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/sr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/sv/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/uk/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/vi/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.AssemblyReference.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/rpswa.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.GeneratedMSBuildEditorConfig.editorconfig
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfoInputs.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfo.cs
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.CoreCompileInputs.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.MvcApplicationPartsAssemblyInfo.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cs
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/rjimswa.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/scopedcss/bundle/TypicalTechTools.styles.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/scopedcss/projectbundle/TypicalTechTools.bundle.scp.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/staticwebassets.development.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalT.04CA2ADE.Up2Date
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/refint/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.pdb
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.genruntimeconfig.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET6/TypicalTechTools/obj/Debug/net8.0/ref/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/appsettings.Development.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/appsettings.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.runtime.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.endpoints.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.exe
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.deps.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.runtimeconfig.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.pdb
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Humanizer.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Common.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Configuration.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Frameworks.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.LibraryModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Packaging.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.ProjectModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Protocol.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Versioning.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.CodeDom.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/af/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ar/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/az/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/bg/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/da/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/el/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fa/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/he/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hu/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hy/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/id/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/is/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ku/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/lv/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/mt/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nb/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ro/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sk/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sl/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sv/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uk/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/vi/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.AssemblyReference.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rpswa.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.GeneratedMSBuildEditorConfig.editorconfig
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfoInputs.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfo.cs
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.CoreCompileInputs.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.MvcApplicationPartsAssemblyInfo.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cs
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjimswa.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/bundle/TypicalTechTools.styles.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/projectbundle/TypicalTechTools.bundle.scp.css
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.development.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalT.04CA2ADE.Up2Date
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/refint/TypicalTechTools.dll
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.pdb
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.genruntimeconfig.cache
+E:/Other Files/_Assessment_Masters/_Stage 2 UNits/ICTDBS507 - Integrate Databases with Websites_FromShaun/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/ref/TypicalTechTools.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/appsettings.Development.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/appsettings.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.runtime.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.staticwebassets.endpoints.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.deps.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.runtimeconfig.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/TypicalTechTools.pdb
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Humanizer.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Common.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.CodeDom.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.AssemblyReference.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfoInputs.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.AssemblyInfo.cs
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.csproj.CoreCompileInputs.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.MvcApplicationPartsAssemblyInfo.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.RazorAssemblyInfo.cs
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/bundle/TypicalTechTools.styles.css
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/scopedcss/projectbundle/TypicalTechTools.bundle.scp.css
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.development.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/swae.build.ex.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalT.04CA2ADE.Up2Date
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/refint/TypicalTechTools.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.pdb
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/TypicalTechTools.genruntimeconfig.cache
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/Debug/net8.0/ref/TypicalTechTools.dll

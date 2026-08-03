@@ -1,0 +1,34 @@
+﻿@model TypicalTechTools.Models.Review
+
+@{
+    ViewData["Title"] = "AddReview";
+}
+
+<h1>Add a Review for product: @Model.ProductCode.ToString()</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddReview">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ReviewText" class="control-label"></label>
+                <input asp-for="ReviewText" class="form-control" />
+                <span asp-validation-for="ReviewText" class="text-danger"></span>
+            </div>
+            @Html.HiddenFor(c => c.ProductCode)
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <!-- Redirect back to a list of all reviews -->
+    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductCode})
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

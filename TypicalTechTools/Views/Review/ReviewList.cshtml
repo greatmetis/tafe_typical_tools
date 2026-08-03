@@ -1,0 +1,43 @@
+﻿@model IEnumerable<TypicalTechTools.Models.Review>
+@using Microsoft.AspNetCore.Http;
+
+@{
+    ViewData["Title"] = "ReviewList";
+    int productCode = int.Parse(@Context.Request.RouteValues["id"].ToString());
+}
+
+
+    <h1>Reviews for Product code: @productCode</h1>
+
+
+
+
+<p>
+    @Html.ActionLink("Add a new Review", "AddReview","Review", new {productCode = @productCode})
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ReviewText)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @Html.HiddenFor(modelItem => item.ReviewId)
+                @Html.HiddenFor(modelItem => item.ProductCode)
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReviewText)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "EditReview", new {  reviewId=item.ReviewId  }, new {@class="btn btn-primary ml-1"})
+                    @Html.ActionLink("Delete", "RemoveReview", new { reviewId = item.ReviewId }, new {@class="btn btn-danger ml-1"})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
