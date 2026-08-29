@@ -65,7 +65,7 @@ namespace TypicalTechTools.Controllers
         public IActionResult DownloadClaimForm()
         {
             //Get the file path of the warranty form.
-            string filePath = Path.Combine(this.Environment.WebRootPath, "Forms\\TypicalTools_WarrantyForm.docx");
+            string filePath = Path.Combine(this.Environment.WebRootPath, "Forms/TypicalTools_WarrantyForm.docx");
 
             //Read the File data into Byte Array.
             byte[] bytes = System.IO.File.ReadAllBytes(filePath);
@@ -112,7 +112,7 @@ namespace TypicalTechTools.Controllers
         private IEnumerable<UploadedFileDetails> GetUploadFileList()
         {
             //Retrieves all the current files located in the Uploads folder of the wwwroot directory.
-            string[] filePaths = Directory.GetFiles(Path.Combine(this.Environment.WebRootPath, "Uploads\\"));
+            string[] filePaths = Directory.GetFiles(Path.Combine(this.Environment.WebRootPath, "Uploads/"));
             //Creates an list of UploadFileDetails objects to hold the filename and the filepath of each file in the folder.
             var files = filePaths.Select(file => new UploadedFileDetails{ Name = Path.GetFileName(file), Path = file });
             //Return the list to the caller.

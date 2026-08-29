@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypicalTechTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a107483e3edd66b87eeaedfb0392817dbc0365ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1cffa8a1aa10429e3485a8645cf9219ac20f812")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypicalTechTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypicalTechTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

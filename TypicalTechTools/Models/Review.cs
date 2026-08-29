@@ -6,18 +6,25 @@ namespace TypicalTechTools.Models
     {
 
         public int ReviewId { get; set; }
+        [Required]
         [Display(Name = "Review")]
         public string ReviewText { get; set; }
+        [Required]
         [Display(Name = "Product Code")]
-        public int ProductCode { get; set; }
+        public int ProductId { get; set; }
+        
+        public DateTime CreatedDate { get; set; }
+        
+        //Note: Define the relationship between Review and product table
+        public virtual Product? Product { get; set;}
 
         /// <summary>
-        /// Return a CSV formatted string of the a Review object
+        /// Return a CSV formatted string of the Review object
         /// </summary>
         /// <returns></returns>
         public string ToCSVString()
         {
-            return $"{ReviewId},{ReviewText},{ProductCode}";
+            return $"{ReviewId},{ReviewText},{ProductId}";
         }
 
     }

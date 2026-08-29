@@ -32,7 +32,7 @@ namespace TypicalTechTools.DataAccess
 
                 Product parsedProduct = new Product
                 {
-                    ProductCode = int.Parse(productSections[0]),
+                    ProductId = int.Parse(productSections[0]),
                     ProductName = productSections[1],
                     ProductPrice = decimal.Parse(productSections[2]),
                     ProductDescription = productSections[3]
@@ -47,7 +47,7 @@ namespace TypicalTechTools.DataAccess
         {
             var products = ParseProducts();
 
-            return products.Where(c => c.ProductCode == productCode).FirstOrDefault();
+            return products.Where(c => c.ProductId == productCode).FirstOrDefault();
         }
 
         #endregion
@@ -70,7 +70,7 @@ namespace TypicalTechTools.DataAccess
                 {
                     ReviewId = int.Parse(reviewSections[0]),
                     ReviewText = reviewSections[1],
-                    ProductCode = int.Parse(reviewSections[2]),
+                    ProductId = int.Parse(reviewSections[2]),
                 };
 
                 reviewList.Add(parsedReview);
@@ -88,7 +88,7 @@ namespace TypicalTechTools.DataAccess
             var allReviews = ParseReviews();
 
             // Return all reviews where the productcode matches the provided product code
-            return allReviews.Where(c => c.ProductCode == productCode).ToList();
+            return allReviews.Where(c => c.ProductId == productCode).ToList();
 
         }
 
@@ -105,7 +105,7 @@ namespace TypicalTechTools.DataAccess
                 newID = existingReviews.OrderByDescending(c => c.ReviewId).FirstOrDefault().ReviewId + 1;
             }
 
-            string reviewLine = $"{newID},{review.ReviewText},{review.ProductCode}";
+            string reviewLine = $"{newID},{review.ReviewText},{review.ProductId}";
 
             File.AppendAllLines(wwwRootPath + "\\data\\Reviews.csv", new string[] { reviewLine });
 

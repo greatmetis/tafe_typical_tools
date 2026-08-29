@@ -36,7 +36,7 @@ namespace TypicalTools.Controllers
         public IActionResult AddReview(int productCode)
         {
             Review review = new Review();
-            review.ProductCode = productCode;
+            review.ProductId = productCode;
             return View(review);
         }
 
@@ -58,7 +58,7 @@ namespace TypicalTools.Controllers
         {
             var review = _csvParser.GetSingleReview(reviewId);
             _csvParser.DeleteReview(reviewId);
-            return RedirectToAction("ReviewList", "Review", new {id = review.ProductCode});
+            return RedirectToAction("ReviewList", "Review", new {id = review.ProductId});
         }
 
         // Show a existing review details in a form to allow for editing
@@ -79,7 +79,7 @@ namespace TypicalTools.Controllers
             }
 
             _csvParser.EditReview(review);
-            return RedirectToAction("ReviewList", "Review", new { id = review.ProductCode });
+            return RedirectToAction("ReviewList", "Review", new { id = review.ProductId });
 
         }
     }

@@ -14,9 +14,9 @@
                 <h2>@product.ProductName</h2>
                 <h3>$@product.ProductPrice</h3>
                 <p style="height:12rem">@product.ProductDescription</p>
-                <small>Product Code: @product.ProductCode</small>
+                <small>Product Code: @product.ProductId</small>
                 <div>
-                    @Html.ActionLink("Reviews", "ReviewList", "Review", new {id = product.ProductCode }, new {@class= "btn btn-primary m-2" })
+                    @Html.ActionLink("Reviews", "ReviewList", "Review", new {id = product.ProductId }, new {@class= "btn btn-primary m-2" })
                 </div>
                 
         </div>

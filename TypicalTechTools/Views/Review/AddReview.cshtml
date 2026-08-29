@@ -4,7 +4,7 @@
     ViewData["Title"] = "AddReview";
 }
 
-<h1>Add a Review for product: @Model.ProductCode.ToString()</h1>
+<h1>Add a Review for product: @Model.ProductId.ToString()</h1>
 
 <hr />
 <div class="row">
@@ -16,7 +16,7 @@
                 <input asp-for="ReviewText" class="form-control" />
                 <span asp-validation-for="ReviewText" class="text-danger"></span>
             </div>
-            @Html.HiddenFor(c => c.ProductCode)
+            @Html.HiddenFor(c => c.ProductId)
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -26,7 +26,7 @@
 
 <div>
     <!-- Redirect back to a list of all reviews -->
-    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductCode})
+    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductId})
 </div>
 
 @section Scripts {

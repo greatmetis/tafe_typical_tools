@@ -13,7 +13,7 @@
         <form asp-action="EditReview">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             @Html.HiddenFor(c => c.ReviewId)
-            @Html.HiddenFor(c => c.ProductCode)
+            @Html.HiddenFor(c => c.ProductId)
 
             <div class="form-group">
                 <label asp-for="ReviewText" class="control-label"></label>
@@ -29,7 +29,7 @@
 </div>
 
 <div>
-    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductCode})
+    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductId})
 </div>
 
 @section Scripts {
