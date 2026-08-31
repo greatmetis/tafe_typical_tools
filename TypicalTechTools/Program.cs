@@ -2,6 +2,7 @@ using TypicalTechTools.DataAccess;
 using TypicalTechTools.Models.Data;
 using Microsoft.EntityFrameworkCore;
 
+// use Create Builder to setup configuration sources, including appsetting.json, user secrets environment variables
 var builder = WebApplication.CreateBuilder(args);
 //Grab the default connections string from the config in the appsettings file that was retrieved from secret.json
 var connectionString = builder.Configuration.GetConnectionString("Default");
@@ -11,7 +12,7 @@ if (string.IsNullOrWhiteSpace(connectionString))
     throw new InvalidOperationException("Connection string 'Default' was not found.");
 }
 
-// Add DbContext to the builder by supplying DbContextOptions
+// Register  DbContext with dependency injection to the builder by supplying DbContextOptions
 builder.Services.AddDbContext<TypicalTechToolDbContext>(options => options.UseSqlServer(connectionString));
 
 // Add services to the container.
