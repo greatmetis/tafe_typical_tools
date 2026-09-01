@@ -9,6 +9,10 @@
 
   <ItemGroup>
     <Content Remove="wwwroot\data\Products.csv" />
+    <Content Update="backupdata\Reviews.csv">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>

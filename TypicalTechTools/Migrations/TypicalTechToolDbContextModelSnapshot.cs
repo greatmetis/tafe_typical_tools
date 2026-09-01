@@ -48,16 +48,6 @@ namespace TypicalTechTools.Migrations
                     b.HasKey("ProductId");
 
                     b.ToTable("Products");
-
-                    b.HasData(
-                        new
-                        {
-                            ProductId = 1,
-                            ProductDescription = "Example Product Description",
-                            ProductName = "Example Product",
-                            ProductPrice = 50.5m,
-                            UpdatedDate = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc)
-                        });
                 });
 
             modelBuilder.Entity("TypicalTechTools.Models.Review", b =>
@@ -83,15 +73,6 @@ namespace TypicalTechTools.Migrations
                     b.HasIndex("ProductId");
 
                     b.ToTable("Reviews");
-
-                    b.HasData(
-                        new
-                        {
-                            ReviewId = 1,
-                            CreatedDate = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
-                            ProductId = 1,
-                            ReviewText = "Review Text"
-                        });
                 });
 
             modelBuilder.Entity("TypicalTechTools.Models.Review", b =>
