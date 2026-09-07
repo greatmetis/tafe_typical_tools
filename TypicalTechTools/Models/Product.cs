@@ -23,7 +23,7 @@ namespace TypicalTechTools.Models
         public string ProductDescription { get; set; } = string.Empty;
 
         [Display(Name = "Updated Date")]
-        [DisplayFormat(DataFormatString = "{0:dd MMMM yyyy hh:mm tt}")]
+        [DisplayFormat(DataFormatString = "{0:dd MMMM yyyy hh:mm:ss tt}")]
         public DateTime UpdatedDate { get; set; }
         public ICollection<Review> Reviews { get; set; } = new List<Review>();
     }
