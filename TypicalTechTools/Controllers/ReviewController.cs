@@ -72,12 +72,27 @@ namespace TypicalTools.Controllers
             return RedirectToAction("Index", "Product");
         }
 
-        // Receive and handle a request to Delete a review
+        /**
+         * Receive and handle a request to Delete a review
+         * The method accepts POST only and verify that the review exists.
+         */
+        [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> RemoveReview(int reviewId)
         {
+            // check if the review exist
             Review? review = await _repository.GetReviewByIdAsync(reviewId);
+            if (review == null)
+            { 
+                return NotFound();
+            }
+            
+            int productId = review.ProductId;
             await _repository.DeleteReviewAsync(review);
-            return RedirectToAction("ReviewList", "Review", new {id = review.ProductId});
+
+            return RedirectToAction( 
+                "ReviewList",
+                new { id = productId });
         }
 
         // Show a existing review details in a form to allow for editing
