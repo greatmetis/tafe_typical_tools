@@ -9,28 +9,26 @@
 <h4>Review</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
         <form asp-action="EditReview">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             @Html.HiddenFor(c => c.ReviewId)
             @Html.HiddenFor(c => c.ProductId)
 
-            <div class="form-group">
+            <div class="form-group mb-3">
                 <label asp-for="ReviewText" class="control-label"></label>
-                <input asp-for="ReviewText" class="form-control" />
+                <textarea asp-for="ReviewText" class="form-control" ></textarea>
                 <span asp-validation-for="ReviewText" class="text-danger"></span>
             </div>
            
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
+                <a asp-action="ReviewList" asp-route-id="@Model.ProductId" class="btn btn-secondary">Cancel</a>
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductId})
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

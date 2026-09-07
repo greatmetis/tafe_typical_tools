@@ -2,32 +2,35 @@
 
 @{
     ViewData["Title"] = "AddReview";
+    // extract variables from the ViewBag
+    int productCode = ViewBag.ProductCode;
+    string productName = ViewBag.ProductName;
 }
 
-<h1>Add a Review for product: @Model.ProductId.ToString()</h1>
+<h1>Add review for @productName</h1>
+
+<p class="opacity-50">Product code: @productCode</p>
 
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-8">
         <form asp-action="AddReview">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
+            <div class="form-group mb-3">
                 <label asp-for="ReviewText" class="control-label"></label>
-                <input asp-for="ReviewText" class="form-control" />
+                <textarea asp-for="ReviewText" class="form-control" ></textarea>
                 <span asp-validation-for="ReviewText" class="text-danger"></span>
             </div>
             @Html.HiddenFor(c => c.ProductId)
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
+            
+            <input type="submit" value="Create" class="btn btn-primary" />
+            <!-- Redirect back to a list of all reviews -->
+            <a asp-action="ReviewList" asp-route-id="@Model.ProductId" class="btn btn-secondary">Back to Reviews</a>
+            
         </form>
     </div>
 </div>
 
-<div>
-    <!-- Redirect back to a list of all reviews -->
-    @Html.ActionLink("Back to Reviews", "ReviewList", "Review", new {id = Model.ProductId})
-</div>
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}

@@ -6,7 +6,7 @@ namespace TypicalTechTools.Models
     {
 
         public int ReviewId { get; set; }
-        [Required]
+        [Required (ErrorMessage = "Review content is required.")]
         [Display(Name = "Review")]
         public string ReviewText { get; set; }
         [Required]

@@ -1,6 +1,7 @@
 using TypicalTechTools.DataAccess;
 using TypicalTechTools.Models.Data;
 using Microsoft.EntityFrameworkCore;
+using TypicalTechTools.Models.Repositories;
 
 // use Create Builder to setup configuration sources, including appsetting.json, user secrets environment variables
 var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +28,9 @@ builder.Services.AddSession(c =>
 
 builder.Services.AddDistributedMemoryCache();
 
-builder.Services.AddSingleton<CsvParser>();
+// Add repository to DI by requesting interfaces and repositories
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IReviewRepository, ReviewRepository>();
 
 var app = builder.Build();
 

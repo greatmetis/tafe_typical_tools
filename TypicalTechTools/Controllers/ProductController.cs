@@ -1,31 +1,99 @@
-﻿using TypicalTechTools.DataAccess;
-using TypicalTechTools.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+using TypicalTechTools.Models;
+using TypicalTechTools.Models.Repositories;
 
 namespace TypicalTools.Controllers
 {
     public class ProductController : Controller
     {
-        private readonly CsvParser _csvParser;
+        private readonly IProductRepository _repository;
 
-        public ProductController(CsvParser parser)
+        public ProductController(IProductRepository repository)
         {
-            _csvParser = parser;
+            _repository = repository;
         }
 
-        // Show all products
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var products = _csvParser.ParseProducts();
+            var products = await _repository.GetAllProductsAsync();
             return View(products);
         }
 
+        public async Task<IActionResult> Details(int id)
+        {
+            Product? product = await _repository.GetProductByIdAsync(id);
+
+            if (product is null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(
+            [Bind("ProductName,ProductPrice,ProductDescription")] Product product)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(product);
+            }
+
+            await _repository.AddProductAsync(product);
+            return RedirectToAction(nameof(Details), new { id = product.ProductId });
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int id)
+        {
+            Product? product = await _repository.GetProductByIdAsync(id);
+
+            if (product is null)
+            {
+                return NotFound();
+            }
+
+            return View(product);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(
+            int id,
+            [Bind("ProductId,ProductName,ProductPrice,ProductDescription")] Product submittedProduct)
+        {
+            if (id != submittedProduct.ProductId)
+            {
+                return BadRequest();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                return View(submittedProduct);
+            }
+
+            Product? existingProduct = await _repository.GetProductByIdAsync(id);
+
+            if (existingProduct is null)
+            {
+                return NotFound();
+            }
+
+            existingProduct.ProductName = submittedProduct.ProductName;
+            existingProduct.ProductPrice = submittedProduct.ProductPrice;
+            existingProduct.ProductDescription = submittedProduct.ProductDescription;
+
+            await _repository.UpdateProductAsync(existingProduct);
+            return RedirectToAction(nameof(Details), new { id });
+        }
 
         public IActionResult Privacy()
         {

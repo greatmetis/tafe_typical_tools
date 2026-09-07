@@ -3,22 +3,36 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
+<div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
     <h1>Products</h1>
+    <a asp-action="Create" class="btn btn-primary">Add product</a>
 </div>
 
-<div class="card-container row">
+<div class="row g-3">
     @foreach(var product in Model) 
     {
-        <div class="single-card card shadow m-2 text-center" style="width: 18rem; height:20rem">
-                <h2>@product.ProductName</h2>
-                <h3>$@product.ProductPrice</h3>
-                <p style="height:12rem">@product.ProductDescription</p>
-                <small>Product Code: @product.ProductId</small>
-                <div>
-                    @Html.ActionLink("Reviews", "ReviewList", "Review", new {id = product.ProductId }, new {@class= "btn btn-primary m-2" })
-                </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3"> 
+            <article 
+                class="card shadow text-center p-3 h-100 w-100">
+                <a asp-controller="Product"
+                   asp-action="Details"
+                   asp-route-id="@product.ProductId"
+                   class="text-decoration-none">
+                    <h2>@product.ProductName</h2>
+                </a>
+                <h3>@product.ProductPrice.ToString("C2")</h3>
+                <p style="min-height:5rem">@product.ProductDescription</p>
                 
+                <div class="flex-grow-1 d-flex flex-column justify-content-end">
+                    <small class="opacity-50">Product Code: @product.ProductId</small>
+                    <div>
+                        <a asp-action="Edit"
+                           asp-route-id="@product.ProductId"
+                           class="btn btn-outline-primary m-2">Edit</a>
+                        @Html.ActionLink("Reviews", "ReviewList", "Review", new {id = product.ProductId }, new {@class= "btn btn-primary m-2" })
+                    </div>
+                </div>
+            </article>
         </div>
     }
 
