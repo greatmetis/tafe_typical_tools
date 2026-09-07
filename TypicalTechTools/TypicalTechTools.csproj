@@ -8,15 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\data\Products.csv" />
-    <Content Update="backupdata\Reviews.csv">
+    <Content Remove="wwwroot/data/Products.csv" />
+    <Content Update="backupdata/Reviews.csv">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
     </Content>
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\data\Products.csv" />
+    <None Include="wwwroot/data/Products.csv" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,7 +30,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\Uploads\" />
+    <Folder Include="wwwroot/Uploads/" />
   </ItemGroup>
 
 </Project>

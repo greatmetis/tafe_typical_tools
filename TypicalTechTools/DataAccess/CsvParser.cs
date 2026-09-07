@@ -22,7 +22,7 @@ namespace TypicalTechTools.DataAccess
         {
             string wwwRootPath = _hostingEnvironment.WebRootPath;
 
-            string[] productLines = File.ReadAllLines(wwwRootPath + "/data/Products.csv");
+            string[] productLines = File.ReadAllLines(Path.Combine(wwwRootPath, "data", "Products.csv"));
 
             List<Product> productList = new List<Product>();
 
@@ -58,7 +58,7 @@ namespace TypicalTechTools.DataAccess
         {
             string wwwRootPath = _hostingEnvironment.WebRootPath;
 
-            string[] reviewLines = File.ReadAllLines(wwwRootPath + "/data/Reviews.csv");
+            string[] reviewLines = File.ReadAllLines(Path.Combine(wwwRootPath, "data", "Reviews.csv"));
 
             List<Review> reviewList = new List<Review>();
 
@@ -107,7 +107,7 @@ namespace TypicalTechTools.DataAccess
 
             string reviewLine = $"{newID},{review.ReviewText},{review.ProductId}";
 
-            File.AppendAllLines(wwwRootPath + "\\data\\Reviews.csv", new string[] { reviewLine });
+            File.AppendAllLines(Path.Combine(wwwRootPath, "data", "Reviews.csv"), new string[] { reviewLine });
 
         }
 
@@ -142,7 +142,7 @@ namespace TypicalTechTools.DataAccess
 
                 string[] reviews = existingReviews.Select(c => c.ToCSVString()).ToArray();
 
-                File.WriteAllLines(wwwRootPath + "\\data\\Reviews.csv", reviews);
+                File.WriteAllLines(Path.Combine(wwwRootPath, "data", "Reviews.csv"), reviews);
                 return true;
             }
 
@@ -181,7 +181,7 @@ namespace TypicalTechTools.DataAccess
 
                 string[] reviews = existingReviews.Select(c => c.ToCSVString()).ToArray();
 
-                File.WriteAllLines(wwwRootPath + "\\data\\Reviews.csv", reviews);
+                File.WriteAllLines(Path.Combine(wwwRootPath, "data", "Reviews.csv"), reviews);
                 return true;
             }
 
