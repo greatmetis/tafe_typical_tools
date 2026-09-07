@@ -26,16 +26,14 @@ namespace TypicalTools.Controllers
             var reviews = await _repository.GetReviewsByProductIdAsync(id);
             var product = await _productRepository.GetProductByIdAsync(id);
             
+            if (product == null)
+            {
+                return NotFound();
+            }
+            
             // add the prepared data into ViewBag
             ViewBag.ProductCode = id;
             ViewBag.ProductName = product.ProductName;
-
-            // if no reviews is found, log the issue and redirect the product view
-            // if(!reviews.Any())
-            // {
-            //     Console.WriteLine("No reviews found for this product.");
-            //     return RedirectToAction("Index", "Product");
-            // }
 
             return View(reviews);
 
@@ -48,6 +46,11 @@ namespace TypicalTools.Controllers
         {
             // add the prepared data into ViewBag
             var product = await _productRepository.GetProductByIdAsync(productCode);
+            if (product == null)
+            {
+                return NotFound();
+            }
+
             ViewBag.ProductCode = productCode;
             ViewBag.ProductName = product.ProductName;
             
@@ -60,16 +63,36 @@ namespace TypicalTools.Controllers
         // Receive and handle the newly created review data
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> AddReview(Review review)
+        public async Task<IActionResult> AddReview([Bind ("ReviewText,ProductId")] Review review)
         {
-            // _repository.AddReview(review, HttpContext.Session.Id);
+            // Verify that the submitted ProductId still refers to an existing product.
+            Product? product =
+                await _productRepository.GetProductByIdAsync(review.ProductId);
+
+            if (product is null)
+            {
+                return NotFound();
+            }
+            // Redisplay the submitted form when model binding or data-annotation validation fails.
+            if (!ModelState.IsValid)
+            {
+                // Rebuild supporting view data because the GET action's ViewBag values are not carried into this separate POST request.
+                ViewBag.ProductCode = review.ProductId;
+                ViewBag.ProductName = product.ProductName;
+                return View(review);
+            }
+            
+            // Data normalisation; assign CreateDate when adding a new review
+            review.ReviewText = review.ReviewText.Trim();
+            review.CreatedDate = DateTime.UtcNow;
+            
+            // Save only after the product and submitted review data have been validated
             await _repository.AddReviewAsync(review);
 
-            // A session id is only set once a value has been added!
-            // adding a value here to ensure the session is created
-            HttpContext.Session.SetString("ReviewText", review.ReviewText);
-
-            return RedirectToAction("Index", "Product");
+            return RedirectToAction(
+                nameof(ReviewList),
+                new { id = review.ProductId }
+            );
         }
 
         /**
@@ -99,7 +122,20 @@ namespace TypicalTools.Controllers
         [HttpGet]
         public async Task<IActionResult> EditReview(int reviewId)
         {
-            Review? review = await _repository.GetReviewByIdAsync(reviewId);
+            var review = await _repository.GetReviewByIdAsync(reviewId);
+            
+            if(review == null){
+                return NotFound();
+            }
+            
+            var product = await _productRepository.GetProductByIdAsync(review.ProductId);
+            
+            if(product == null){
+                return NotFound();
+            }
+            
+            ViewBag.ProductCode = review.ProductId;
+            ViewBag.ProductName = product.ProductName;
             
             return View(review);
         }
@@ -107,15 +143,45 @@ namespace TypicalTools.Controllers
         // Receive and handle the edited review data
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult EditReview(Review review)
+        public async Task<IActionResult> EditReview([Bind("ReviewId,ReviewText,ProductId")] Review review)
         {
-            if(review == null)
+            // Load the persisted review to verify the submitted ReviewId and preserve server-controlled fields such as CreatedDate.
+            Review? existingReview =
+                await _repository.GetReviewByIdAsync(review.ReviewId);
+            
+            if (existingReview is null)
             {
-                return RedirectToAction("Index", "Product");
+                return NotFound();
             }
+            
+            // Verify that the submitted ProductId still refers to an existing product.
+            Product? product =
+                await _productRepository.GetProductByIdAsync(review.ProductId);
+            
+            if (product is null)
+            {
+                return NotFound();
+            }
+            
+            // Redisplay the submitted form when validation fails.
+            if (!ModelState.IsValid)
+            {
+                // Restore view data required by the Edit view.
+                ViewBag.ProductCode = review.ProductId;
+                ViewBag.ProductName = product.ProductName;
+                return View(review);
+            }
+            // Copy only the field that the user is permitted to edit.
+            // ReviewId, ProductId and CreatedDate retain their database values.
+            existingReview.ReviewText = review.ReviewText.Trim();
 
-            _repository.UpdateReviewAsync(review);
-            return RedirectToAction("ReviewList", "Review", new { id = review.ProductId });
+            await _repository.UpdateReviewAsync(existingReview);
+
+            return RedirectToAction(
+                nameof(ReviewList),
+                new { id = existingReview.ProductId }
+            );
+
 
         }
     }

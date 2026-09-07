@@ -2,12 +2,17 @@
 
 @{
     ViewData["Title"] = "EditReview";
+    int productCode = ViewBag.ProductCode;
+    string productName = ViewBag.ProductName;
+    
 }
 
-<h1>EditReview</h1>
+<h1>Edit Review</h1>
 
-<h4>Review</h4>
+<h4>Review for @productName</h4>
+<p class="opacity-50">Product code: @productCode</p>
 <hr />
+
 <div class="row">
     <div class="col-md-8">
         <form asp-action="EditReview">

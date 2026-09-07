@@ -6,13 +6,17 @@ namespace TypicalTechTools.Models
     {
 
         public int ReviewId { get; set; }
-        [Required (ErrorMessage = "Review content is required.")]
+
+        [Required(ErrorMessage = "Review content is required.")]
+        [StringLength(1000, ErrorMessage = "Review cannot exceed 1000 characters.")]
         [Display(Name = "Review")]
-        public string ReviewText { get; set; }
+        public string ReviewText { get; set; } = "";
         [Required]
         [Display(Name = "Product Code")]
         public int ProductId { get; set; }
         
+        [Display(Name = "Created Date")]
+        [DisplayFormat(DataFormatString = "{0:dd MMMM yyyy hh:mm:ss tt}")]
         public DateTime CreatedDate { get; set; }
         
         //Note: Define the relationship between Review and product table
