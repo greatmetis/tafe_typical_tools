@@ -42,22 +42,24 @@
 }
 else
 {
-    <table class="table">
+    <div class="overflow-scroll">
+    <table class="table"  style="min-width: 650px;">
         <thead>
-        <tr>
-            <th>Review</th>
-            <th>Created Date</th>
+        <tr class="row g-3">
+            <th class="col-9">Review</th>
+            <th class="col">Created Date</th>
         </tr>
         </thead>
         <tbody>
         @foreach (var review in Model.Reviews.OrderByDescending(review => review.CreatedDate))
         {
-            <tr>
-                <td>@review.ReviewText</td>
-                <td>@Html.DisplayFor(model => review.CreatedDate)</td>
+            <tr class="row g-3">
+                <td class="col-9">@review.ReviewText</td>
+                <td class="col">@Html.DisplayFor(model => review.CreatedDate)</td>
             </tr>
         }
         </tbody>
     </table>
+    </div>
 }
 

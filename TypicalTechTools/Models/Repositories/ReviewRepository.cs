@@ -53,6 +53,7 @@ public class ReviewRepository:IReviewRepository
         // No matching review was found
         if (deletedCount == 0)
         {
+            Console.WriteLine("No review was deleted.");
         }
     }
     

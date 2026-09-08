@@ -19,7 +19,7 @@ namespace TypicalTechTools.Models
 
         [Required(ErrorMessage = "Product description is required.")]
         [StringLength(1000, ErrorMessage = "Product description cannot exceed 1000 characters.")]
-        [Display(Name = "Product Description")]
+        [Display(Name = "Product Description (max 100 characters)")]
         public string ProductDescription { get; set; } = string.Empty;
 
         [Display(Name = "Updated Date")]
