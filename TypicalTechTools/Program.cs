@@ -3,9 +3,9 @@ using TypicalTechTools.Models.Data;
 using Microsoft.EntityFrameworkCore;
 using TypicalTechTools.Models.Repositories;
 
-// use Create Builder to setup configuration sources, including appsetting.json, user secrets environment variables
+// use Create Builder to setup configuration sources, including appsetting.json, or user secrets environment variables
 var builder = WebApplication.CreateBuilder(args);
-//Grab the default connections string from the config in the appsettings file that was retrieved from secret.json
+//Grab the default connections string from the config in the appsettings file that could be retrieved from secret.json
 var connectionString = builder.Configuration.GetConnectionString("Default");
 
 if (string.IsNullOrWhiteSpace(connectionString))
