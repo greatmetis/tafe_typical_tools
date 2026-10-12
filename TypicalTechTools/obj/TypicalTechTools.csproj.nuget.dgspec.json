@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/TypicalTechTools.csproj": {}
+    "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/TypicalTechTools.csproj": {}
   },
   "projects": {
-    "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/TypicalTechTools.csproj": {
+    "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/TypicalTechTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/TypicalTechTools.csproj",
+        "projectUniqueName": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/TypicalTechTools.csproj",
         "projectName": "TypicalTechTools",
-        "projectPath": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/TypicalTechTools.csproj",
+        "projectPath": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/TypicalTechTools.csproj",
         "packagesPath": "/Users/metisteng/.nuget/packages/",
-        "outputPath": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/obj/",
+        "outputPath": "/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/metisteng/.nuget/NuGet/NuGet.Config"
@@ -44,6 +44,10 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[10.0.11, )"

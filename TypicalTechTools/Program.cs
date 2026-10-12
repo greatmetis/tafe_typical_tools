@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using TypicalTechTools.DataAccess;
 using TypicalTechTools.Models.Data;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,20 @@ if (string.IsNullOrWhiteSpace(connectionString))
 
 // Register  DbContext with dependency injection to the builder by supplying DbContextOptions
 builder.Services.AddDbContext<TypicalTechToolDbContext>(options => options.UseSqlServer(connectionString));
+
+
+// Add MVC Authentication session using cookie for tracking the login data of the users.
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        // Set the path to redirect
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath = "/Account/AccessDenied";
+        // Sets the length of time the user's login set for
+        options.ExpireTimeSpan = TimeSpan.FromMinutes(15);
+        // Allow the login to be refreshed if it is still being used.
+        options.SlidingExpiration = true;
+    });
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -48,7 +63,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseSession();
-
+app.UseAuthentication(); // this must go above authorization
 app.UseAuthorization();
 
 app.MapControllerRoute(

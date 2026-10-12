@@ -19,73 +19,73 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = TypicalTechTools
 build_property.RootNamespace = TypicalTechTools
-build_property.ProjectDir = /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/
+build_property.ProjectDir = /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools
+build_property.MSBuildProjectDirectory = /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Product/Create.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Product/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Product/Details.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Product/Edit.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Product/Index.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Product/Privacy.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Product/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Review/AddReview.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Review/AddReview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmV2aWV3L0FkZFJldmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Review/EditReview.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Review/EditReview.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmV2aWV3L0VkaXRSZXZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Review/ReviewList.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Review/ReviewList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmV2aWV3L1Jldmlld0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Shared/Error.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Warranty/Delete.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Warranty/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FycmFudHkvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Warranty/Index.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Warranty/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2FycmFudHkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/_ViewImports.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/_ViewStart.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET8/TypicalTechTools/Views/Shared/_Layout.cshtml]
+[/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x1k4vcb71i

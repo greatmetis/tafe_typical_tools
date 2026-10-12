@@ -94,7 +94,6 @@ namespace TypicalTools.Controllers
             await _repository.UpdateProductAsync(existingProduct);
             return RedirectToAction(nameof(Details), new { id });
         }
-
         public IActionResult Privacy()
         {
             return View();
