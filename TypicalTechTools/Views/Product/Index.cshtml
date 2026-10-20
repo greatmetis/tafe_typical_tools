@@ -25,11 +25,12 @@
                 
                 <div class="flex-grow-1 d-flex flex-column justify-content-end">
                     <small class="opacity-50">Product Code: @product.ProductId</small>
+                    <small class="opacity-50">Updated on: @product.UpdatedDate</small>
                     <div>
                         <a asp-action="Edit"
                            asp-route-id="@product.ProductId"
                            class="btn btn-outline-primary m-2">Edit</a>
-                        @Html.ActionLink("Reviews", "ReviewList", "Review", new {id = product.ProductId }, new {@class= "btn btn-primary m-2" })
+                        @Html.ActionLink("Reviews", "ReviewList", "Review", new { id = product.ProductId }, new { @class = "btn btn-primary m-2" })
                     </div>
                 </div>
             </article>
