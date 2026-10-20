@@ -611,7 +611,6 @@
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/scopedcss/bundle/TypicalTechTools.styles.css
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/scopedcss/projectbundle/TypicalTechTools.bundle.scp.css
-/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/compressed/1pwzvh3qnb-{0}-oq8r4nbcb2-oq8r4nbcb2.gz
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/compressed/zs88up8m97-{0}-a7y5cl2dk4-a7y5cl2dk4.gz
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/compressed/mzsnb2tuy9-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/compressed/1a6w4uw0ug-{0}-6b9nfc4n3r-6b9nfc4n3r.gz
@@ -685,3 +684,4 @@
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/TypicalTechTools.genruntimeconfig.cache
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/ref/TypicalTechTools.dll
 /Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/bin/Debug/net10.0/BCrypt-Net-Next.dll
+/Users/metisteng/Documents/TAFE/ICTDB507/Assessment/TypicalTechTools_NET10_MetisTeng/TypicalTechTools/obj/Debug/net10.0/compressed/1pwzvh3qnb-{0}-0mo44elujp-0mo44elujp.gz
