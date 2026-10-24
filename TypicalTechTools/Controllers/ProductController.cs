@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TypicalTechTools.Models;
 using TypicalTechTools.Models.Repositories;

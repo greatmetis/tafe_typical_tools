@@ -12,5 +12,6 @@ public class TypicalTechToolDbContext : DbContext
     // Present model as tables from database
     public DbSet<Product> Products { get; set; } = null;
     public DbSet<Review> Reviews { get; set; } = null;
+    public DbSet<AppUser> AppUsers { get; set; }
     
 }

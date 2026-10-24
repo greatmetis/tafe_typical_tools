@@ -19,6 +19,7 @@ namespace TypicalTechTools.Controllers
             return View();
         }
 
+        [Authorize (Policy="ManagementAccess")]
         public IActionResult Privacy()
         {
             return View();
