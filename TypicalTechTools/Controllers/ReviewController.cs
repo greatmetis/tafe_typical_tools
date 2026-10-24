@@ -4,12 +4,14 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 using TypicalTechTools.Models.Repositories;
 
 namespace TypicalTools.Controllers
 {
     public class ReviewController : Controller
     {
+        #region Setup
         private readonly IReviewRepository _repository;
         private readonly IProductRepository _productRepository;
 
@@ -18,6 +20,9 @@ namespace TypicalTools.Controllers
             _repository = repository;
             _productRepository = productRepository;
         }
+        #endregion
+
+        #region Endpoints
         
         // Show all reviews
         [HttpGet]
@@ -101,6 +106,7 @@ namespace TypicalTools.Controllers
          */
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> RemoveReview(int reviewId)
         {
             // check if the review exist
@@ -120,6 +126,7 @@ namespace TypicalTools.Controllers
 
         // Show a existing review details in a form to allow for editing
         [HttpGet]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> EditReview(int reviewId)
         {
             var review = await _repository.GetReviewByIdAsync(reviewId);
@@ -143,6 +150,7 @@ namespace TypicalTools.Controllers
         // Receive and handle the edited review data
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> EditReview([Bind("ReviewId,ReviewText,ProductId")] Review review)
         {
             // Load the persisted review to verify the submitted ReviewId and preserve server-controlled fields such as CreatedDate.
@@ -184,5 +192,6 @@ namespace TypicalTools.Controllers
 
 
         }
+        #endregion
     }
 }
