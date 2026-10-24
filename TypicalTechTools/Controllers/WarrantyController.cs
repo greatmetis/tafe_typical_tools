@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace TypicalTechTools.Controllers
 {
@@ -10,6 +11,7 @@ namespace TypicalTechTools.Controllers
             _environment = environment;
         }
 
+        [Authorize (Policy = "GuestAccess")]
         public IActionResult Index()
         {
             //Retrieve a list of the currently uploaded files and put it in the Viewbag to be passed to the view when opened.

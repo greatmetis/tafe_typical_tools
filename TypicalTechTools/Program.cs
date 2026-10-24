@@ -40,7 +40,12 @@ builder.Services.AddAuthorization(options =>
     {
         //Set the rules the user needs to pass to meet the policy
         policy.RequireRole("ADMIN", "MANAGER", "SUPERVISOR");
-        //policy.RequireClaim("DEPARTMENT", "ACCOUNTS"); <==Example of looking for a certain claim type
+    });
+    options.AddPolicy("GuestAccess", policy => 
+    {
+        //Set the rules the user needs to pass to meet the policy
+        policy.RequireRole("GUEST");
+        // policy.RequireClaim("DEPARTMENT", "ACCOUNTS"); <==Example of looking for a certain claim type
     });
 });
 
