@@ -1,3 +1,6 @@
 ﻿@using TypicalTechTools
 @using TypicalTechTools.Models
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!--Adds the require using statment and service from our dependency injeciton for our policy check-->
+@using Microsoft.AspNetCore.Authorization;
+@inject IAuthorizationService AuthorizationService;

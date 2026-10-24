@@ -1,12 +1,9 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-<!--Adds the require using statment and service from our dependency injeciton for our policy check-->
-@using Microsoft.AspNetCore.Authorization;
-@inject IAuthorizationService AuthorizationService;
 @{
     //Checks if the current user is logged in using MVCs authentication system and Authentication cookies.
     bool isAuthenticated = Context.User.Identity.IsAuthenticated;
-    //Uses the Authorization Service to see if the user meets the requirments for the policy
+    //Uses the Authorization Service to see if the user meets the requirement for the policy
     var passesPolicyCheck = await AuthorizationService.AuthorizeAsync(User, "ManagementAccess");
 }
 <head>

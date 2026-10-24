@@ -31,8 +31,9 @@ namespace TypicalTools.Controllers
 
             return View(product);
         }
-
+        
         [HttpGet]
+        [Authorize (Policy = "ManagementAccess")]
         public IActionResult Create()
         {
             return View();
@@ -40,6 +41,7 @@ namespace TypicalTools.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> Create(
             [Bind("ProductName,ProductPrice,ProductDescription")] Product product)
         {
@@ -53,6 +55,7 @@ namespace TypicalTools.Controllers
         }
 
         [HttpGet]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> Edit(int id)
         {
             Product? product = await _repository.GetProductByIdAsync(id);
@@ -67,6 +70,7 @@ namespace TypicalTools.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize (Policy = "ManagementAccess")]
         public async Task<IActionResult> Edit(
             int id,
             [Bind("ProductId,ProductName,ProductPrice,ProductDescription")] Product submittedProduct)

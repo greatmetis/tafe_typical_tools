@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Product Details";
+    var passesPolicyCheck = await AuthorizationService.AuthorizeAsync(User,"ManagementAccess");
 }
 
 <div class="d-flex justify-content-between">
@@ -22,9 +23,12 @@
     <dd class="col-sm-9">@Html.DisplayFor(model => model.UpdatedDate)</dd>
 </dl>
 
-<div class="mb-4">
-    <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-outline-primary">Edit product</a>
-</div>
+@if (passesPolicyCheck.Succeeded)
+{
+    <div class="mb-4">
+        <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-outline-primary">Edit product</a>
+    </div>
+}
 
 <hr class="opacity-50 my-5">
 
