@@ -34,20 +34,25 @@
                     <li class="nav-item">
                         <a class="nav-link text-dark" asp-area="" asp-controller="Warranty" asp-action="Index">Warranties</a>
                     </li>
-                    <li class="nav-item ms-auto">
+                    <li class="ms-auto d-flex align-items-center">
+                        @if (User.Identity?.IsAuthenticated == true) {
+                            <p class="my-0 mx-1">Hello, @User.Identity.Name!</p>
+                        }
+                    </li>
+                    <li class="nav-item">
                         @if(isAuthenticated){
-                            <a class="btn btn-outline-primary mx-1" asp-action="Logff" asp-controller="Authentication">Logoff</a>
+                            <a class="btn btn-outline-primary mx-1" asp-action="Logoff" asp-controller="Authentication">Log off</a>
                         }
                         else
                         {
-                            <a class="btn btn-outline-primary mx-1" asp-action="Login" asp-controller="Authentication">Login</a>
+                            <a class="btn btn-outline-primary mx-1" asp-action="Login" asp-controller="Authentication">Log in</a>
                         }
                     </li>
                     @if (passesPolicyCheck.Succeeded)
                     {
                         <li><a class="btn btn-primary mx-1" asp-action="Create" asp-controller="Authentication">New Account</a></li>
                     }
-                    @* <li>isAuthenticate: @isAuthenticated</li> *@
+
                 </ul>
             </div>
         </div>

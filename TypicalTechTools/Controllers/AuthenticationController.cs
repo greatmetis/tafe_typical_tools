@@ -71,12 +71,10 @@ public class AuthenticationController : Controller
     /// <summary>
     /// POST: signs the user out. A POST with an anti-forgery token stops other sites logging users out.
     /// </summary>
-    [HttpPost]
-    [ValidateAntiForgeryToken]
     public IActionResult Logoff()
     {
         HttpContext.SignOutAsync();
-        return RedirectToAction("Index","Home");
+        return RedirectToAction("Index","Product");
     }
     
     [Authorize(Policy = "ManagementAccess")]
