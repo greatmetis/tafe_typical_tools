@@ -10,12 +10,15 @@ namespace TypicalTechTools.Controllers;
 
 public class AuthenticationController : Controller
 {
+    #region Setup
     private readonly IAuthenticationRepository _repository;
     public AuthenticationController(IAuthenticationRepository repository)
     {
         _repository = repository;
     }
-    
+    #endregion
+
+    #region Endpoints
    
     public IActionResult Login([FromQuery]string ReturnUrl)
     {
@@ -76,7 +79,7 @@ public class AuthenticationController : Controller
         return RedirectToAction("Index","Home");
     }
     
-    [Authorize(Roles = "Admin")]
+    [Authorize(Policy = "ManagementAccess")]
     public IActionResult Create()
     {
         return View();
@@ -108,4 +111,10 @@ public class AuthenticationController : Controller
         }
         return RedirectToAction("Login");
     }
+
+    public IActionResult AccessDenied()
+    {
+        return View();
+    }
+    #endregion
 }
