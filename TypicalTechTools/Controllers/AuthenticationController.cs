@@ -1,6 +1,7 @@
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TypicalTechTools.Models.DTOs;
 using TypicalTechTools.Models.Repositories;
@@ -64,4 +65,47 @@ public class AuthenticationController : Controller
         return Redirect(loginDTO.ReturnUrl);
     }
 
+    /// <summary>
+    /// POST: signs the user out. A POST with an anti-forgery token stops other sites logging users out.
+    /// </summary>
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Logoff()
+    {
+        HttpContext.SignOutAsync();
+        return RedirectToAction("Index","Home");
+    }
+    
+    [Authorize(Roles = "Admin")]
+    public IActionResult Create()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public IActionResult Create(CreateUserDTO userDTO)
+    {
+        //Make sure the user password and confirmation fields matched. This is to avoid incorrect
+        //password inputs on setup.
+        if (userDTO.Password.Equals(userDTO.PasswordConfirmation) == false)
+        {
+            ViewBag.CreateUserError = "Password and confirmation do not match!";
+            return View(userDTO);
+        }
+        //Check the data meets any model validation checks
+        if (ModelState.IsValid == false)
+        {
+            return View(userDTO);
+        }
+        //Pas the details to the repository and catch the response
+        var user = _repository.CreateUser(userDTO);
+        //If the user comes bacl from the repository as null, meaning they already have an account.
+        if (user == null) 
+        {
+            ViewBag.CreateUserError = "Username already exists. Try a different username.";
+            return View(userDTO);
+        }
+        return RedirectToAction("Login");
+    }
 }

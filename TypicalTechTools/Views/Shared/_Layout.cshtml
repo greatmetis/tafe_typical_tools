@@ -1,14 +1,14 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <!--Adds the require using statment and service from our dependency injeciton for our policy check-->
-@* @using Microsoft.AspNetCore.Authorization; *@
-@* @inject IAuthorizationService AuthorizationService; *@
-@* @{ *@
-@*     //Checks if the current user is logged in using MVCs authentication system and Authentication cookies. *@
-@*     bool isAuthenticated = Context.User.Identity.IsAuthenticated; *@
-@*     //Uses the Authorization Service to see if the user meets the requirments for the policy *@
-@*     var passesPolicyCheck = await AuthorizationService.AuthorizeAsync(User, "ManagementAccess"); *@
-@* } *@
+@using Microsoft.AspNetCore.Authorization;
+@inject IAuthorizationService AuthorizationService;
+@{
+    //Checks if the current user is logged in using MVCs authentication system and Authentication cookies.
+    bool isAuthenticated = Context.User.Identity.IsAuthenticated;
+    //Uses the Authorization Service to see if the user meets the requirments for the policy
+    var passesPolicyCheck = await AuthorizationService.AuthorizeAsync(User, "ManagementAccess");
+}
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -35,12 +35,19 @@
                         <a class="nav-link text-dark" asp-area="" asp-controller="Warranty" asp-action="Index">Warranties</a>
                     </li>
                     <li class="nav-item ms-auto">
-                        @{
-                        <a class="btn btn-outline-primary mx-1" asp-action="Login" asp-controller="Authentication">Login</a>
-                        @* <a class="btn btn-outline-primary mx-1" asp-action="Logout" asp-controller="Authentication">Login</a> *@
-                        @* <a class="btn btn-primary mx-1" asp-action="Create" asp-controller="Authentication">New Account</a> *@
+                        @if(isAuthenticated){
+                            <a class="btn btn-outline-primary mx-1" asp-action="Login" asp-controller="Authentication">Login</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-outline-primary mx-1" asp-action="Logff" asp-controller="Authentication">Logoff</a>
                         }
                     </li>
+                    @if (passesPolicyCheck.Succeeded)
+                    {
+                        <li><a class="btn btn-primary mx-1" asp-action="Create" asp-controller="Authentication">New Account</a></li>
+                    }
+                    @* <li>isAuthenticate: @isAuthenticated</li> *@
                 </ul>
             </div>
         </div>
